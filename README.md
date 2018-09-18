@@ -19,6 +19,7 @@ Suggested steps to complete this assignment
 
 Samples of Student Work
 -----------------------
+[Mampu](https://koooolk.github.io/OriginalDesign/)   
 [Alex](https://alngo1.github.io/OriginalDesign/)   
 [Xiang](https://kagehayashi.github.io/OriginalDesign/)   
 [Angel](https://anli30.github.io/OriginalDesign/)   
