@@ -95,7 +95,7 @@ Samples of Student Work
 [Ian](https://ialau.github.io/OriginalDesign/)   
 [Lauren](https://lauren-tran.github.io/OriginalDesign/)   
 [Jocelyn](https://pexie66.github.io/OriginalDesign/)   
-[Cappillem](https://apcscap.github.io/OriginalDesign/)   
+[Cappillen](https://apcscap.github.io/OriginalDesign/)   
 [Calvin](https://callmecalvin808.github.io/OriginalDesign/)  
 [Freesia](https://freesiaf.github.io/OriginalDesign/)   
 [Megan](https://meganeliza.github.io/OriginalDesign/)   
